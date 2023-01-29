@@ -4,11 +4,11 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gaiejj&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
 </div>
 
-![](https://raw.githubusercontent.com/Gaiejj/Gaiejj/main/assets/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/Gaiejj/Gaiejj/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Gaiejj/count.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
