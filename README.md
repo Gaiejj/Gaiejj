@@ -23,4 +23,4 @@
 - 👯 I’m looking to collaborate on coding, docs and so on.
 - 📫 How to reach me: 
 
-  📧 edu email: 2204411702@stu.xjtu.edu.cn
+  📧 email: gaiejj@outlook.com
