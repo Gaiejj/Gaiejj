@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaiejj&margin-w=5&row=1&column=7" alt="Gaiejj" /></a> </p>
 
-**Gaiejj** is a ✨ _student_ ✨ at **Xi'an Jiao Tong University**.
+**Gaiejj** is a ✨ _student_ ✨ at **Peking Univversity**.
 
-- 🔭 I’m currently working on **[PKU-MARL](https://github.com/PKU-MARL?type=source)**.
+- 🔭 I’m currently working on **[PKU-Alignment](https://github.com/PKU-Alignment)**.
 - 🌱 I’m currently learning Reinforcement Learning, specifically, **Safe Reinforcement Learning**.
 - 👯 I’m looking to collaborate on coding, docs and so on.
 - 📫 How to reach me: 
